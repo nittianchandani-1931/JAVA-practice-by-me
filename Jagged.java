@@ -29,7 +29,7 @@
 
 public class Jagged {
 
-    public static void main(String[] args) {
+    public static void main(Teststring[] args) {
         int nums[][][]= new int[3][4][5]; // 3D array
 
        

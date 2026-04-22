@@ -1,5 +1,5 @@
 public class Ifelse {
-    public static void main(String[] args) {
+    public static void main(Teststring[] args) {
         int x = 18;
         int y = 5;
         // if (x>10 && x<=20) //11-20

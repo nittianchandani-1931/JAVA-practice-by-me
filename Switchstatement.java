@@ -1,5 +1,5 @@
 public class Switchstatement {
-    public static void main(String[] args)
+    public static void main(Teststring[] args)
 
     {
      int n = 8;

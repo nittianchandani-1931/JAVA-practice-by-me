@@ -1,5 +1,5 @@
 public class RelationalOperator {
-    public static void main(String[] args) {
+    public static void main(Teststring[] args) {
         int x = 6;
         int y = 4;
         // boolean result =x<y;

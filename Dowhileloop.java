@@ -1,5 +1,5 @@
 public class Dowhileloop {
-    public static void main(String[] args)
+    public static void main(Teststring[] args)
     {
         int i = 5;
         do{

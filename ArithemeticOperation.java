@@ -1,5 +1,5 @@
 public class ArithemeticOperation {
-    public static void main(String a[]) {
+    public static void main(Teststring a[]) {
         int num1 = 90;
         // int num2 = 5;
         // int result = num1 + num2;

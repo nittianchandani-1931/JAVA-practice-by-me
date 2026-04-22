@@ -1,5 +1,5 @@
 public class DataType {
-    public static void main(String a[]){
+    public static void main(Teststring a[]){
         int num =2;
         byte by = 124;
         short sh = 554;

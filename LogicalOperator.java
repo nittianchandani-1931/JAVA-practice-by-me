@@ -1,5 +1,5 @@
 public class LogicalOperator {
-    public static void main(String[] args) {
+    public static void main(Teststring[] args) {
         int x = 4;
         int y = 3;
         int a = 6;

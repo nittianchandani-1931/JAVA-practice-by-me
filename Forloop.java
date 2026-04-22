@@ -1,5 +1,5 @@
 public class Forloop {
-    public static void main(String [] args)  
+    public static void main(Teststring [] args)  
     {
         // for(int i = 1; i<=4;i++)
         //         for(int i = 5; i>=1;i--)

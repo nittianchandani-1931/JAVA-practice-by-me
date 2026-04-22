@@ -1,6 +1,6 @@
 public class MDarray {
 
-    public static void main(String[] a) {
+    public static void main(Teststring[] a) {
         int nums[][] = new int[3][4];
 
         for (int i = 0; i < 3; i++) {

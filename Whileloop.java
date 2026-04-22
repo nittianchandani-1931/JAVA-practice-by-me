@@ -1,5 +1,5 @@
 public class Whileloop {
-    public static void main(String[] args) {
+    public static void main(Teststring[] args) {
         // int i = 1;
         // while (i<=5)
 

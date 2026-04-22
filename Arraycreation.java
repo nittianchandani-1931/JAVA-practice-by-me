@@ -1,5 +1,5 @@
 public class Arraycreation{
-    public static void main(String a[])
+    public static void main(Teststring a[])
     {
 
 
