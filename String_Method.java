@@ -1,6 +1,6 @@
 public class String_Method {
     public static void main(String[] args) {
-        String name = "Vikas chaurasiya Vikas Vikas Vikas";
+        String name = "Vikas chaurasiya Vikas Vikas Vikas`";
         // int length = name.length();
         // char c = name.charAt(length - 1);
         // String name2 = "vikas chaurasiya";
@@ -22,9 +22,14 @@ public class String_Method {
         // System.out.println(name.toUpperCase());
         // System.out.println(name.toLowerCase());
         // System.out.println(name.trim());
-       String newName = name.replace("Vikas", "Chandani");
-       System.out.println(newName);
-
+    //    String newName = name.replace("Vikas", "Chandani");
+    //    System.out.println(newName);
+// System.out.println(name.contains("V"));
+// System.out.println(name.contains("C"));
+name.startsWith("v");
+System.out.println(name.startsWith("V"));
+name.endsWith("a");
+System.out.println(name.endsWith("a"));
     }
 
 }
