@@ -17,7 +17,7 @@ public class Swap {
     }
 
     static void changeName(String naam) {
-        naam = " Chaurasiya";
+        naam = " Chaurasiya";   //creating a new object
     }
 
     static void swap(int a, int b) {
