@@ -1,19 +1,19 @@
 import java.util.Scanner;
 
 class cls1 {
-    void add(int p, int q) {
-        System.out.println(p + q);
+    void add(int s, int r) {
+        System.out.println(s + r);
     }
 }
 
 class cls2 extends cls1 {
 
-    void mul(int p, int q) {
-        System.out.println(p * q);
+    void mul(int s, int r) {
+        System.out.println(s * r);
     }
 
-    void task(int p, int q) {
-        add(p * p, q * q);
+    void task(int s, int r) {
+        add(s * s, r * r);
     }
 }
 
